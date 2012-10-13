@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FollowUpThen</string>
+    <string name="no_mail_app">No app found to handle emails.</string>
+    <string name="not_used">This app has no actual app</string>
+</resources>
